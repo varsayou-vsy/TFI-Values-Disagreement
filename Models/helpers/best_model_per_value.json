@@ -1,0 +1,12 @@
+{
+  "ACHIEVEMENT": "roberta-base",
+  "BENEVOLENCE": "roberta-base",
+  "CONFORMITY": "ensemble_avg",
+  "HEDONISM": "ensemble_avg",
+  "POWER": "roberta-base",
+  "SECURITY": "microsoft_deberta-v3-base",
+  "SELF-DIRECTION": "ensemble_avg",
+  "STIMULATION": "roberta-base",
+  "TRADITION": "roberta-base",
+  "UNIVERSALISM": "ensemble_avg"
+}
